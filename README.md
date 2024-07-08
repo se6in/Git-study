@@ -27,3 +27,10 @@ git commit - 영구적으로 기록함
 헤더 영역(브랜치) - 버젼으로 영구적 기록
 
 버전마다 복구가 가능하고 트리별로 지우더라도 인덱스 영역 전체가 백업이 되어있이서 복구가능
+
+# Git 기본기 실습
+형상관리(SCM) - 변경사항을 체계적으로 추적,통제하는 것
+git init - 깃을 시작하겠어
+![image](https://github.com/se6in/Git-study/assets/116144890/c9f473fa-0017-44e7-959a-9f95257dcd14)
+
+git status - 현재 작업(Working tree)의 상태를 찍어볼 수 있는 명령어이다. 변경사항(Changes)이 있는지 없는지 여부와 staging이 되었는지 commit할 것이 있는지 등을 알려준다.
