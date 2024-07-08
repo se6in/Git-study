@@ -39,9 +39,12 @@ git init - 깃을 시작하겠어
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/51084826-0d36-4618-b73d-13b7720bdcc2)
 
-git status - 현재 작업(Working tree)의 상태를 찍어볼 수 있는 명령어이다. 변경사항(Changes)이 있는지 없는지 여부와 staging이 되었는지 commit할 것이 있는지 등을 알려준다.
+git status - 현재 작업(Working tree)의 상태를 찍어볼 수 있는 명령어이다. 
+
+변경사항(Changes)이 있는지 없는지 여부와 staging이 되었는지 commit할 것이 있는지 등을 알려준다.
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/4bd74777-c5e3-4895-bc8c-a0f6c170061b)
+
 test1.txt파일이라는 변경사항이 있으니 인덱스 영역에 기록하고 싶다면 git add로 가져와라.
 
 git add . - 변경된 모든 파일 add
@@ -51,4 +54,5 @@ git add test1.txt - test1.txt 파일 add
 ![image](https://github.com/se6in/Git-study/assets/116144890/b7450d06-8049-4b30-82bc-5f14bba59832)
 
 .git(숨김폴더) > objects > 새로운폴더
+
 ![image](https://github.com/se6in/Git-study/assets/116144890/8619d860-401e-45fc-bc86-7e0c08fd4151)
