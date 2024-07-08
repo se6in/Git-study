@@ -53,6 +53,18 @@ git add test1.txt - test1.txt 파일 add
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/b7450d06-8049-4b30-82bc-5f14bba59832)
 
-.git(숨김폴더) > objects > 새로운폴더
+.git(숨김폴더) > objects > 새로운폴더 > 새로운 해시값 파일 생성된다.
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/8619d860-401e-45fc-bc86-7e0c08fd4151)
+
+git commit을 최초로하면 설정이 안되어있어서 안된다.
+
+이렇게 기초설정을 해준다.
+
+![image](https://github.com/se6in/Git-study/assets/116144890/72273352-81f8-4e26-a102-d66f71b4ec92)
+
+git config --list - git 기초설정의 리스트를 볼 수 있다.
+
+git log -  헤더 영역에 영구히 저장된 로그를 볼 수 있다.
+
+
