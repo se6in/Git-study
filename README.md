@@ -1,5 +1,5 @@
 <details>
-  <summary> #Git의 역사</summary>
+  <summary> # Git의 역사</summary>
   분산 버전 관리 시스템(DVCS)
 Bitkeeper가 유료화 상용해서 리누스 토발즈가 Git을 직접 만듦.(GPL(공개라이센스)를 따라야함.)
 </details>
