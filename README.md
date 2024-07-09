@@ -1,5 +1,5 @@
 <details>
-  <summary>첫번째토글</summary>
+  <summary># Git의 역사</summary>
   <!-- 내용 -->
 </details>
 
