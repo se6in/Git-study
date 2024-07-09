@@ -87,4 +87,4 @@ git reflog - 한번이라도 커밋한것이 남아있음.
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/75e01061-f742-4c6b-b85a-1ebec7da31ad)
 
-git commit ammend -m "" - 가장 최근의 커밋을 수정함
+git commit ammend -m "" - 가장 최근의 커밋을 수정함 
