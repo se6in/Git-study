@@ -1,4 +1,4 @@
-# [Git의 기초](https://github.com/se6in/Git-study/blob/main/Git%EC%9D%98%20%EA%B8%B0%EC%B4%88.md)
+# [Git의 기초(역사,이야기,분산관리시스템)](https://github.com/se6in/Git-study/blob/main/Git%EC%9D%98%20%EA%B8%B0%EC%B4%88.md)
 # [Git의 기본기실습](https://github.com/se6in/Git-study/blob/main/Git%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EC%8B%A4%EC%8A%B5.md)
 # [Git의 중급](https://github.com/se6in/Git-study/blob/main/Git%20%EC%A4%91%EA%B8%89.md)
 
