@@ -87,7 +87,7 @@ git reflog - 한번이라도 커밋한것이 남아있음.
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/75e01061-f742-4c6b-b85a-1ebec7da31ad)
 
-git commit ammend -m "" - 가장 최근의 커밋을 수정함 
+git commit --amend -m "" - 가장 최근의 커밋을 수정함 
 
 # Git 고급(섹션3)
 
@@ -138,4 +138,9 @@ git checkout 이름 - 이름 브랜치로 이동
 topic 브랜치로 이동 후 아이디중복체크를 생성하고 add하고 커밋하고 로그를보면 마스터 브랜치포인터는 로그인에, 토픽 브랜치포인터는 아이디중복체크에 간걸 알 수 있음.
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/f35c8485-992b-41cb-8109-dc16666d3d30)
+
+마스터브랜치에서 git merge topic을 하면 토픽브랜치를 마스터브랜치에 합치겠다는 뜻
+
+![image](https://github.com/se6in/Git-study/assets/116144890/5ad712aa-fb09-4b6b-8f5c-51d10caedbfe)
+
 
