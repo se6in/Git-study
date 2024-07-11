@@ -1,6 +1,6 @@
 # [Git의 배경지식(섹션0)(역사,이야기,분산관리시스템)](https://github.com/se6in/Git-study/blob/main/Git%EC%9D%98%20%EA%B8%B0%EC%B4%88.md)
 # [Git 초급(Git 3가지 영역, 기본기 실습)](https://github.com/se6in/Git-study/blob/main/Git%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EC%8B%A4%EC%8A%B5.md)
-# [Git 중급()](https://github.com/se6in/Git-study/blob/main/Git%20%EC%A4%91%EA%B8%89.md)
+# [Git 중급(reset,reflog,amend)](https://github.com/se6in/Git-study/blob/main/Git%20%EC%A4%91%EA%B8%89.md)
 
 # Git 고급(섹션3)
 
