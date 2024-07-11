@@ -162,3 +162,44 @@ vi에디터가 나오는데 esc후 :wq 하면 저장 후 3-way merge가 된다.
 로그 찍어보면 병합이 되었다.
 
 ![image](https://github.com/se6in/Git-study/assets/116144890/174f09b0-3519-42ea-9f5a-4d5a81955ac5)
+
+# Git merge 충돌
+
+(현재상황)
+
+마스터 브랜치와 토픽브랜치가 같은 파일을 수정해서 커밋하고 병합할 때 내용일 달라서 충돌이 일어난다.
+
+![image](https://github.com/se6in/Git-study/assets/116144890/18ca1e79-c0b7-4ffe-8155-2e0b8a72852d)
+
+![image](https://github.com/se6in/Git-study/assets/116144890/9db0cc27-a3b9-4844-b0f8-c717c8e38eab)
+
+웬만하면 브랜치를 나누면 같은 파일을 수정하지않는다.
+
+# Git rebase 로그 관리
+
+rebase - 로그 정리를 깔끔하게한다.
+
+(현재상황)
+로그인 커밋을 하나로 만들고 싶음.
+
+![image](https://github.com/se6in/Git-study/assets/116144890/23bdff96-0c3e-4d8b-8f7c-df42ef29267b)
+
+VI에디터 들어와서 i키를 누르면 인서트가된다
+
+![image](https://github.com/se6in/Git-study/assets/116144890/3ae1310e-2534-43c5-a3bb-8f6d2e72ca4a)
+
+스쿼시(찌그러뜨리다)할 부분을 s로 바꿔준다.
+
+esc하고 :wq해준다.
+
+![image](https://github.com/se6in/Git-study/assets/116144890/135bcf51-acd0-4239-b771-599ef780d83d)
+
+로그인 완료만 남기고 싶으니깐 로그인 퇴근 , 로그인 꾀병부려서퇴근을 지운다.
+
+(#은 모두 주석이라 신경 ㄴㄴ)
+
+esc하고 :wq해준다.
+
+![image](https://github.com/se6in/Git-study/assets/116144890/7b784a10-ffc9-4e5e-a399-b4bda59d743f)
+
+![image](https://github.com/se6in/Git-study/assets/116144890/1e918eb3-e320-40ae-af47-6a5575b1c73a)
