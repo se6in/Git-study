@@ -52,3 +52,9 @@ git clone 깃허브주소 - git init(시작),git remote(연결),git pull(다운)
 git fetch origin - 모든 패치를 다운받는다.
 
 git checkout -b topic origin/topic - 브랜치 생성 및 머지
+
+![image](https://github.com/user-attachments/assets/cacd9288-5150-4313-a0c8-e03313ba9c6f)
+
+# Github remoter branch
+
+
