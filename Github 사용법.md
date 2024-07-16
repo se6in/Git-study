@@ -27,7 +27,9 @@ git pull origin master - 다운로드하는것
 
 # Github clone
 
-git clone 깃허브주소 - git init(시작),git remote(연결),git pull(다운) 한번에 해줌
+git clone 깃허브주소 - git init(시작),git remote(연결),git pull(다운) 한번에 해줌.
+
+(마스터 브랜치만 동기화 나머지 브랜치는 체크아웃해서 생성 및 병합해줘야함.)
 
 ![image](https://github.com/user-attachments/assets/f9f25d02-ec69-40e0-bfdc-f5555752781f)
 
@@ -55,6 +57,10 @@ git checkout -b topic origin/topic - 브랜치 생성 및 머지
 
 ![image](https://github.com/user-attachments/assets/cacd9288-5150-4313-a0c8-e03313ba9c6f)
 
-# Github remoter branch
+# Github remote branch
 
+1. git clone으로 마스터브랜치를 가져온다.
 
+2. git check out -b dev origin/master
+
+3. git check out -b topic origin/master
