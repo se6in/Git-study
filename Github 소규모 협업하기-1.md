@@ -19,3 +19,5 @@
 승인 받은 사람만 푸시가능
 
 ![image](https://github.com/user-attachments/assets/b1db5488-8f9b-4a53-9f25-972ce4d5da1e)
+
+![image](https://github.com/user-attachments/assets/8f9b6173-9da7-4351-abad-80914c9918bf)
