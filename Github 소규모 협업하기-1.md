@@ -13,3 +13,9 @@
 브랜치를 보호하는법
 
 ![image](https://github.com/user-attachments/assets/ce2cdc3f-7116-41a1-85ae-49b00edfcc94)
+
+![image](https://github.com/user-attachments/assets/6c1eabb6-c4b3-49eb-9d9e-88b542398e32)
+
+승인 받은 사람만 푸시가능
+
+![image](https://github.com/user-attachments/assets/b1db5488-8f9b-4a53-9f25-972ce4d5da1e)
