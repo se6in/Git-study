@@ -13,7 +13,8 @@ merge 옵션중 --no-ff를 하는 이유
 
 커밋 이력 깔끔하게 하기 위해 rebase 사용예시
 
-![image](https://github.com/user-attachments/assets/b8820585-3ecc-4c7b-983d-25720db2b0d2)
+![image](https://github.com/user-attachments/assets/6358daf4-5505-4465-bf5a-de57dac78e20)
+
 
 ![image](https://github.com/user-attachments/assets/ef3b4651-9ff2-4540-889c-85e7fb0789b1)
 
