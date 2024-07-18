@@ -9,3 +9,7 @@
 팀원들 초대는 깃허브 환경설정에 있음.
 
 ![image](https://github.com/user-attachments/assets/4835f6fb-ecb9-4120-bbe0-aba2a229426e)
+
+브랜치를 보호하는법
+
+![image](https://github.com/user-attachments/assets/ce2cdc3f-7116-41a1-85ae-49b00edfcc94)
