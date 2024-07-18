@@ -21,3 +21,17 @@
 ![image](https://github.com/user-attachments/assets/b1db5488-8f9b-4a53-9f25-972ce4d5da1e)
 
 ![image](https://github.com/user-attachments/assets/8f9b6173-9da7-4351-abad-80914c9918bf)
+
+상황
+
+팀장 green이 팀원meta를 초대하고 main,dev 프로젝트를 프로텍트했다.
+
+직접적인 푸시는 green만 할 수 있고 팀원은 직접적으로 푸시를 할 수 없다.
+
+팀원은 main,dev를 동기화한다.(혹시 팀장의 모를 데이터 날라감 대비) 
+
+그리고 팀원은 topic브랜치를 만들고 푸시하면 merge요청이 된다.(PR요청)
+
+팀장은 코드리뷰도하고 잘됐으면 승인하고 아니면 다시..
+
+![image](https://github.com/user-attachments/assets/70de1f99-5e2b-4b70-8160-6bdeb19ad985)
