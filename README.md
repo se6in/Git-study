@@ -2,5 +2,5 @@
 # [Git 초급(Git 3가지 영역, 기본기 실습)](https://github.com/se6in/Git-study/blob/main/Git%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%EC%8B%A4%EC%8A%B5.md)
 # [Git 중급(reset,reflog,amend)](https://github.com/se6in/Git-study/blob/main/Git%20%EC%A4%91%EA%B8%89.md)
 # [Git 고급(branch,fast-forward merge,3-way merge 이해)](https://github.com/se6in/Git-study/blob/main/Git%20%EA%B3%A0%EA%B8%89.md)
-# [Git 고급실습(fast-foward merge실습,3-way merge 실습,merge충돌, rebase 로그 관리 )](https://github.com/se6in/Git-study/blob/main/Git%20%EA%B3%A0%EA%B8%89%20%EC%8B%A4%EC%8A%B5.md)
+# [Git 고급실습(fast-foward merge실습,3-way merge 실습,merge충돌, rebase 로그 관리 )](https://github.com/se6in/Git-study/blob/main/Git/Git%20%EA%B3%A0%EA%B8%89%20%EC%8B%A4%EC%8A%B5.md)
 # [Github 사용법 (push,pull,clone)](https://github.com/se6in/Git-study/blob/main/Github%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
