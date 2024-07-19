@@ -4,10 +4,14 @@
 
 ![image](https://github.com/user-attachments/assets/85647c14-efc6-469b-bc26-5da888ca565a)
 
-topic브랜치를 생성 후 코딩하고 완성 파일을 github에 푸시한다.
+join_topic브랜치를 생성 후 코딩하고 완성 파일을 github에 푸시한다.
 
 ![image](https://github.com/user-attachments/assets/073a71bc-ecc5-4199-b3b5-08f02a2aeb94)
 
-깃허브 풀리퀘스트에
+깃허브 pull requests
 
 ![image](https://github.com/user-attachments/assets/4a5cead5-7a35-4e94-ba2d-516a0809b3d2)
+
+join_topic브랜치을 dev브랜치에 merge해도 될까요?
+
+![image](https://github.com/user-attachments/assets/9bff0555-775a-4256-9902-797ff244794c)
